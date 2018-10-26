@@ -1,0 +1,5 @@
+﻿DXFramework.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(WICTextureLoader.obj)' or at 'C:\Users\Liam Maclean\Downloads\ShadersHandin\ShadersFramework(1)\Shaders\Debug\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(pch.obj)' or at 'C:\Users\Liam Maclean\Downloads\ShadersHandin\ShadersFramework(1)\Shaders\Debug\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(DDSTextureLoader.obj)' or at 'C:\Users\Liam Maclean\Downloads\ShadersHandin\ShadersFramework(1)\Shaders\Debug\DirectXTK.pdb'; linking object as if no debug info
+  CourseworkProject.vcxproj -> C:\Users\Liam Maclean\Downloads\ShadersHandin\ShadersFramework(1)\Shaders\Debug\CourseworkProject.exe
+  CourseworkProject.vcxproj -> C:\Users\Liam Maclean\Downloads\ShadersHandin\ShadersFramework(1)\Shaders\Debug\CourseworkProject.pdb (Full PDB)
